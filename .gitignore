@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credentials
+secrets.h
+.env
+
+# Generated experiment data
+data/*.csv
+data/*.json
+
+# IDE
+.vscode/
+.idea/
