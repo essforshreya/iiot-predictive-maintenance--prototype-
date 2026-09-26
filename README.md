@@ -1,4 +1,4 @@
-# IIoT Predictive Maintenance Prototype ⚙️
+# IIoT Predictive-Maintenance Prototype ⚙️
 
 An IoT and machine-learning prototype for monitoring machine
 operating conditions and identifying abnormal behavior using
