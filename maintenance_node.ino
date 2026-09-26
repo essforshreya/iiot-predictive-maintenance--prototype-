@@ -1,8 +1,18 @@
 /*
-  ESP32 IoT Predictive Maintenance - Hardware Template
+  ESP32 IIoT Predictive Maintenance
+  ---------------------------------
+  Hardware integration template.
 
-  Starter firmware only. Replace the placeholder sensor-reading
-  functions after selecting and calibrating the actual sensors.
+  Intended measurements:
+  - Temperature
+  - Vibration
+  - Current
+  - RPM
+
+  NOTE:
+  Sensor-reading functions currently use placeholder values.
+  Replace them with sensor-specific implementations after
+  selecting and connecting the physical sensors.
 */
 
 #include <Arduino.h>
